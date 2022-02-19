@@ -1,2 +1,3 @@
 # algorithms-cpp
-some algorithms challenges solved using C++.
+CodeForces algorithms contest challenges solved using C++.
+
