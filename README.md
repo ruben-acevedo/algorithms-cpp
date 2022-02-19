@@ -1,3 +1,3 @@
 # algorithms-cpp
-CodeForces algorithms contest challenges solved using C++.
+some algorithms contest challenges from codeforces, beecrowd, codechef, etc... solved using C++.
 
